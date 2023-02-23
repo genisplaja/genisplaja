@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**genisplaja/genisplaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PhD student in the Music Technology Group, currently working on Music Information Retrieval tasks:
+- 🎛️ Music source separation
+- 🎤 Pitch extraction
+- 🎵 Melodic pattern discovery
 
-Here are some ideas to get you started:
+I am currently maintining and contributing to: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎻 [compIAM](https://github.com/MTG/compIAM) (common tools and models for the computational analysis of Indian Art Music)
+- 📝 [Tutorial on Computational Methods for Supporting Corpus-Based Research on Indian Art Music](https://github.com/MTG/IAM-tutorial-ismir22) (presented in ISMIR 2022, Bengaluru)
+- 📁 [mirdata](https://github.com/mir-dataset-loaders/mirdata) and [soundata](https://github.com/soundata/soundata) (common loaders for Music and Sound Information Retrival datasets)
+
+![Genís's GitHub stats](https://github-readme-stats.vercel.app/api?username=genisplaja&count_private=true&show_icons=true&theme=highcontrast)
