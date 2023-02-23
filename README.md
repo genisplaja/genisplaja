@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 
 I am a PhD student in the Music Technology Group, currently working on Music Information Retrieval tasks:
 - 🎛️ Music source separation
